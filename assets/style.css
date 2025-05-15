@@ -3,6 +3,22 @@ body {
      font-family: Bai Jamjuree;
 }
 footer {
+   #container  {
+    display: flex;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
     background-color: black;
     color: white;
     position: fixed;
