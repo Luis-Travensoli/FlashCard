@@ -6,12 +6,12 @@ criaCartao(
 
 criaCartao(
     'Medidas de terreno',
-    pergunta,
-    resposta
+    'Quantos hectares tem um Alqueire?',
+    '2,42 hectares.'
 )
 
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Copa do Mundo',
+    'Qual seleção mais venceu a Copa do Mundo?',
+    'A Seleção Brasileira com 5 títulos'
 )
