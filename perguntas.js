@@ -15,3 +15,9 @@ criaCartao(
     'Qual seleção mais venceu a Copa do Mundo?',
     'A Seleção Brasileira com 5 títulos'
 )
+
+criaCartao(
+    'Medidas de terreno',
+    'Quantos metros quadrados tem um hectare',
+    '10.000 metros'
+)
