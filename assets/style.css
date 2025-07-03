@@ -96,12 +96,11 @@ footer p {
     margin-top: 0.5rem;
 }
 
-/* código omitido */
 
 @media (max-width: 560 px) {
 
     body {
-        background: url('img/127588387836741.webp');
+        background: url('img/bd-mobile.webp');
     }
     
     .cartao {
@@ -116,4 +115,3 @@ footer p {
         font-size: 3.8vw;
     }
 }
-
